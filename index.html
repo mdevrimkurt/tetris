@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Tetris Game</title>
+    <link rel="stylesheet" href="tetris.css">
+</head>
+<body>
+    
+    <main>
+        <section>
+            <p>Score : <span id="score">0</span></p>
+
+            <canvas id="tetris" width="200" height="400"></canvas>
+        
+            <p id="tops"></p>
+            <p id="status"></p>
+        </section>
+        <aside>
+            <input id="butt" type="button" onclick="location.reload()" value="Try Again">
+        </aside>
+    </main>
+
+    <script src="pieces.js"></script>
+    <script src="tetris.js"></script>
+</body>
+</html>

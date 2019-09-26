@@ -1,0 +1,38 @@
+#status {
+	font-size: 2em;
+	color: red;
+}
+
+canvas {
+	margin-left: 200px;
+	margin-top: 10px;
+}
+body {
+	background-color: lightblue;
+}
+p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-left: 200px;
+	margin-top: 40px;
+}
+
+main{
+    display: inline-block;
+}
+
+
+section{
+	float: left;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+aside{
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#butt{
+	visibility: hidden;
+}
+
