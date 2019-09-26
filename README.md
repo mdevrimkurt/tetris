@@ -1,4 +1,4 @@
 # tetris
 Javascript Tetris Game
 
-Classical Tetris game baseon Javascript
+Classical Tetris game based on Javascript
